@@ -1,5 +1,9 @@
 # Source-Code-Analysis-using-GenAI
 
+# Flow
+![image](https://github.com/thangarajdeivasikamani/CODE_ANALYSIS_USING_GENAI/assets/46878296/49721662-c5df-427e-bf14-9ad6fba5c4aa)
+
+
 # How to run?
 ### STEPS:
 
